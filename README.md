@@ -1,14 +1,15 @@
-# UdemyPriceTracker
+# Udemy Course Price Tracker with Automated Sale Alerts
 
 ## Project Background
 Udemy offers a wide range of courses for learning new skills, with standard prices typically between $100-$250. However, Udemy frequently runs flash sales, offering discounts from 50% to 80%, which can significantly reduce course costs. The challenge is that Udemy does not notify users about these sales through promotional emails, making it easy to miss these savings opportunities. 
 
-Here is an example of a flash sale, which usually runs from 1-3 days.
-![ALT TEXT](https://github.com/Lekan-E/Udemy-Course-Price-Tracker/blob/2c9bf5adef376cbbba7ac0164805b1beea7ac86e/Misc/udemy-sale.png)
-
 This project addresses the gap by creating a price tracker that monitors the price of specified Udemy courses and sends email notifications when a course is on sale, ensuring users can purchase courses at the best price.
 
 The Python Jupyter notebook for this project can be found [HERE](https://github.com/Lekan-E/Udemy-Course-Price-Tracker/blob/2c9bf5adef376cbbba7ac0164805b1beea7ac86e/Udemy%20Price%20Tracker.ipynb)
+
+
+![ALT TEXT](https://github.com/Lekan-E/Udemy-Course-Price-Tracker/blob/2c9bf5adef376cbbba7ac0164805b1beea7ac86e/Misc/udemy-sale.png)
+Here is an example of a flash sale, which usually runs from 1-3 days.
 
 ## Methodology
 ### Key Libraries
@@ -37,7 +38,6 @@ A sample email notification includes the current sale price, a link to the cours
 
 ![alt text](https://github.com/Lekan-E/Udemy-Course-Price-Tracker/blob/2c9bf5adef376cbbba7ac0164805b1beea7ac86e/Misc/sample-email.png)
 (ignore the price for now, this is just for illustration purposes)
-
 
 ## Future Improvements
 Over time, we will collect price data for multiple courses, enabling us to build a regression model to predict future sale dates and further enhance the tool's value.
