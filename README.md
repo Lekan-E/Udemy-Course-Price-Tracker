@@ -36,8 +36,7 @@ Here are the main steps for this projects, which are summarized in the flow char
 ## Final Results
 A sample email notification includes the current sale price, a link to the course, and a historical price chart to help users make informed purchase decisions.
 
-![alt text](https://github.com/Lekan-E/Udemy-Course-Price-Tracker/blob/2c9bf5adef376cbbba7ac0164805b1beea7ac86e/Misc/sample-email.png)
-(ignore the price for now, this is just for illustration purposes)
+![alt text](https://github.com/Lekan-E/Udemy-Course-Price-Tracker/blob/ebdc69eee3507e637b1a930cd32cb5e2a35492f5/Misc/Email.png)
 
 ## Future Improvements
 Over time, we will collect price data for multiple courses, enabling us to build a regression model to predict future sale dates and further enhance the tool's value.
